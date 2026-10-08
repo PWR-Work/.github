@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PWR-Work/.github/main/profile/logo-icon.png" width="104" alt="PWR Work" />
-
 # PWR / WORK
 
 ### Open-source work system for power teams
